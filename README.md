@@ -1,4 +1,3 @@
-# jumia-beauty-products-scraper
 # Jumia Beauty Products Scraper 🛍️  
 
 A Python web scraper that extracts beauty product details from [Jumia](https://www.jumia.ma/) and saves them in a structured CSV file.  
